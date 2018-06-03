@@ -9,7 +9,7 @@ import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
 
 /**
- * Description:反射
+ * Description:通过反射获取某个类的Field(域)、Construct(构造函数)、Method(方法)
  * author:jingmaolin
  * email:1271799407@qq.com.
  * phone:13342446520.
